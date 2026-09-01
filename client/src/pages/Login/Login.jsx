@@ -1,11 +1,8 @@
 function Login() {
   return (
     <div>
-      <title>Login</title>
       <h1>Login</h1>
-      <p>
-        This page will be used for user authentication.
-      </p>
+      <p>Login to your account.</p>
     </div>
   );
 }

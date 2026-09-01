@@ -1,11 +1,8 @@
 function Dashboard() {
   return (
     <div>
-      <title>Dashboard</title>
       <h1>Dashboard</h1>
-      <p>
-        This page will display restaurant system information.
-      </p>
+      <p>Welcome to your restaurant dashboard.</p>
     </div>
   );
 }
