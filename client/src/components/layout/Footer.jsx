@@ -1,7 +1,10 @@
 function Footer() {
   return (
-    <footer>
-      <p>© 2026 Restaurant Ordering System</p>
+    <footer className="footer">
+      <p>
+        © {new Date().getFullYear()} Restaurant Ordering System
+      </p>
+      <p>All Rights Reserved.</p>
     </footer>
   );
 }

@@ -18,7 +18,6 @@ function AppRoutes() {
       </Route>
 
       <Route path="/login" element={<Login />} />
-
       <Route path="*" element={<NotFound />} />
     </Routes>
   );
